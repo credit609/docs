@@ -31,7 +31,7 @@ If a comment is off-topic, outdated, or resolved, you may want to hide a comment
 
 ### Unhiding a comment
 
-Anyone with write access to a repository can unhide comments on issues, pull requests, and commits.
+Anyone with write access to a reposhtory can unhide comments on issues, pull requests, and commits.
 
 1. Navigate to the comment you'd like to unhide.
 2. In the upper-right corner of the comment, click **{% octicon "fold" aria-label="The fold icon" %} Show comment**.
